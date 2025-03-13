@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Reacquaint](https://github.com/jasonrr19/reacquaint)
 
-- 🌱 I’m currently learning **Tailwind, Cursor, and Flutter**
+- 🌱 I’m currently learning **Tailwind, Python, and Flutter**
 
 - 👯 I’m looking to collaborate on **an environmental project**
 
